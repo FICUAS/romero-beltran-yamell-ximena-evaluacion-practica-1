@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">mobile-app-base-compose</string>
+    <string name="label_comic_category">Ciencia Ficción</string>
+    <string name="label_comic_title">Cómic: Experimento 003: Fusión de dimensiones</string>
+    <string name="label_comic_author">Autor: Ximena Romero</string>
+    <string name="label_comic_description">Década de 1940. Lejos de la ciudad, pero lo suficientemente cerca de la central de energía nuclear, comienza el experimento 003: La fusión de nuestro mundo con lo desconocido.</string>
+    <string name="label_comic_date">4 de mayo de 2026</string>
+    <string name="label_comic_location">Tienda oficial</string>
+    <string name="label_badge_new">Nuevo</string>
+    <string name="btn_add_cart">Agregar al carrito</string>
+    <string name="btn_share">Compartir</string>
 </resources>
